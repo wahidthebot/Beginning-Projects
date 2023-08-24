@@ -1,5 +1,6 @@
-https://global-warming.wahidhussain1.repl.co/
-
+https://global-warming.wahidhussain1.repl.co/  
 This is Tthe website, it has no active servers or databases so the uploads and posts made can not be seen. 
 
 It was made using Replit so I cant post the HTML, CSS and JS code for it as files, but you can view the code inside of Replit. Using this link " https://replit.com/@WAHIDHUSSAIN1/Global-Warming "
+
+I used Replit to craft a collaborative website for my friend's non-profit. It lets her team share findings, stay organized, and engage with remote colleagues. This digital tool strengthens their global warming initiatives through efficient information exchange and teamwork.
